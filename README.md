@@ -1,16 +1,20 @@
-# fludo
+# Fludo
 
-A new Flutter project.
+Fludo is an open source todo list desktop application developed in Flutter
 
-## Getting Started
+## Project Roadmap
 
-This project is a starting point for a Flutter application.
+- Core features
+  - [ ] Create single tasks
+  - [ ] Create tasks lists
+  - [ ] Create tasks groups
+  - [ ] Keyboard shortcuts support
 
-A few resources to get you started if this is your first Flutter project:
+- Good to have
+  - [ ] Themes support
+  - [ ] Ability to export user data
+  - [ ] Ability to create custom themes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- What it will not support
+  - User authentication
+  - Any kind of online interaction
